@@ -23,6 +23,8 @@ This project utilizes Python libraries such as `typing`, `beautifulsoup4`, `http
 
 ## Running the Script
 
+Before running the `harveynorman.py` script, make sure to fetch the latest cookie and user-agent from the website and replace as variable. This ensures that the script interacts with the website correctly.
+
 To run the `harveynorman.py` script, use the following command:
 
 ```bash
