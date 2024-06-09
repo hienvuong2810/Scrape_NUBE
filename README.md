@@ -6,8 +6,8 @@ This project utilizes Python libraries such as `typing`, `beautifulsoup4`, `http
 
 1. **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/hienvuong2810/Scrape_NUBE/tree/main
+    cd Scrape_NUBE
     ```
 
 2. **Create a Virtual Environment (optional but recommended)**
